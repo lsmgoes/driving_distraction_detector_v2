@@ -178,6 +178,7 @@ driving_distraction_detector_v2/
 # Como Citar / How to Cite
 
 Caso este código ou os resultados desta pesquisa contribuam para o seu trabalho, utilize a seguinte referência:
+
 If this code or the results of this research contribute to your work, please use the following reference:
 
 > Goes, L. S. M., Santos, A. L. C., Da Silva, W. S., & Carvalho, C. B.  
