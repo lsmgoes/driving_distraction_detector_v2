@@ -183,4 +183,4 @@ If this code or the results of this research contribute to your work, please use
 
 > Goes, L. S. M., Santos, A. L. C., Da Silva, W. S., & Carvalho, C. B.  
 > **Real-Time Driver Distraction Detection with Artificial Intelligence using YOLOv8 and MediaPipe.**  
-> *2026 IEEE International Conference on Consumer Electronics (ICCE).* IEEE, 2026.
+> *2026 IEEE International Conference on Consumer Electronics (ICCE), Dubai, United Arab Emirates, 2026, pp. 1-6, doi: 10.1109/ICCE67443.2026.11449679.
