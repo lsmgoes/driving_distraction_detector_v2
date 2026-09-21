@@ -10,6 +10,10 @@ A aplicação integra **YOLOv8** para detecção do telefone celular e **Google 
 
 Nesta versão, a arquitetura da aplicação foi refatorada com ênfase em **processamento concorrente**, utilizando threads para separar determinadas tarefas do fluxo principal de execução.
 
+<img src="images/Tela_de_alerta.png" width="650">
+
+*Tela de alerta de distração (detecção do sono à esquerda e celular à direita).*
+
 ---
 
 # Objetivo
