@@ -172,3 +172,14 @@ driving_distraction_detector_v2/
 ├── README.md
 └── requirements.txt
 ```
+
+---
+
+# Como Citar / How to Cite
+
+Caso este código ou os resultados desta pesquisa contribuam para o seu trabalho, utilize a seguinte referência:
+If this code or the results of this research contribute to your work, please use the following reference:
+
+> Goes, L. S. M., Santos, A. L. C., Da Silva, W. S., & Carvalho, C. B.  
+> **Real-Time Driver Distraction Detection with Artificial Intelligence using YOLOv8 and MediaPipe.**  
+> *2026 IEEE International Conference on Consumer Electronics (ICCE).* IEEE, 2026.
