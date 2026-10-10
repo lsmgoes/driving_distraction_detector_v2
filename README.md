@@ -181,9 +181,9 @@ driving_distraction_detector_v2/
 
 # Como Citar / How to Cite
 
-Caso este código ou os resultados desta pesquisa contribuam para o seu trabalho, utilize a seguinte referência:
+Caso esta pesquisa contribua para o seu trabalho acadêmico ou científico, considere citá-la utilizando a seguinte referência bibliográfica:
 
-If this code or the results of this research contribute to your work, please use the following reference:
+If this research contributes to your academic or scientific work, please consider citing it using the following bibliographic reference:
 
 > Goes, L. S. M., Santos, A. L. C., Da Silva, W. S., & Carvalho, C. B.  
 > **Real-Time Driver Distraction Detection with Artificial Intelligence using YOLOv8 and MediaPipe.**  
